@@ -1,3 +1,3 @@
 module.exports = function(str){
-  return str + ' - DevPleno!'
+  return str + ' - DevPleno! '
 }
